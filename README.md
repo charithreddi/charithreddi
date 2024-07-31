@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Charith, a passionate IT Professional with a b
 ### 💬 About Me
 
 - **Location**: Sydney, New South Wales, Australia 🦘
-- **Age**: 25
+- **Age**: 24
 - **Current Role**: Operational Team Leader
 - **Previous Education**: 
   - Masters of Information Technology(Extension) with a major in Data Analytics from the University of Technology Sydney
