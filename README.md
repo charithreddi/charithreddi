@@ -14,7 +14,7 @@ Welcome to my GitHub profile!<img src="https://media.giphy.com/media/hvRJCLFzcas
 
 - **Location**: Sydney, New South Wales, Australia
 - **Age**: 25
-- **Current Role**: Coles Team Member (Full-time) & ACS Professional Year Student
+- **Current Role**: Operational Team Leader
 - **Previous Education**: 
   - Masters of Information Technology(Extension) with a major in Data Analytics from the University of Technology Sydney
   - Bachelors of Technology in Computer Science from Koneru Lakshmaiah Education Foundation, India
