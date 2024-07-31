@@ -12,7 +12,7 @@ Welcome to my GitHub profile!<img src="https://media.giphy.com/media/hvRJCLFzcas
 
 ### About Me
 
-- **Location**: Sydney, New South Wales, Australia
+- **Location**: Sydney, New South Wales, Australia 🦘
 - **Age**: 25
 - **Current Role**: Operational Team Leader
 - **Previous Education**: 
