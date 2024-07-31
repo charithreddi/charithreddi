@@ -6,7 +6,7 @@ Welcome to my GitHub profile!<img src="https://media.giphy.com/media/hvRJCLFzcas
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/charithreddi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charithreddi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:charithreddimekalan@gmail.com)
-<img align="right" alt="GIF" src="https://github.com/charithreddi/charithreddi/blob/main/code.gif?raw=true" width="250" height="180" />
+<img align="right" alt="GIF" src="https://github.com/charithreddi/charithreddi/blob/main/code.gif?raw=true" width="230" height="160" />
 
 
 
