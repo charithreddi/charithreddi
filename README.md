@@ -22,8 +22,34 @@ Welcome to my GitHub profile! I'm Charith, a passionate IT Professional with a b
 
 ### 💼 Work Experience
 
-- Currently working as an operational team leader in customer service [@Coles](https://coles.com.au/)
-- Private Mathematics Tutor: Offering personalized tutoring to help students excel in mathematics.
+### **Database Administrator**  
+[InfoTechConsultancy](https://www.infotechconsultancy.io) *(Part-time, Remote)*  
+*Jul 2024 – Present (6 months)*  
+- Managed database integrity, security, and performance at InfoTech Consultancy in Sydney, Australia.  
+- Improved query performance by 20% through optimization and system tuning.  
+- Automated database maintenance tasks, reducing manual efforts and increasing reliability.  
+**Skills:**  
+`Database Management` · `SQL` · `Database Optimization` · `Data Security` · `Backup & Recovery Systems` · `Automation` · `Troubleshooting` · `Data Extraction & Integration` · `Reporting & Documentation` · `Performance Monitoring Tools`
+
+
+### **Operations Team Lead**  
+**[Coles](https://coles.com.au/)** *(Full-time, On-site)*  
+*Apr 2022 – Present (2 years, 9 months)*  
+- Coordinated daily operations, achieving recognition as the top-performing team member in the region.  
+- Implemented sales strategies that led to significant profit growth and enhanced customer satisfaction.  
+- Demonstrated responsibility and reliability in managing store operations.  
+**Skills:**  
+`Sales Strategy Development` · `Customer Experience Management` · `Leadership` · `Operational Efficiency` · `Oral Communication` · `Responsibility and Reliability` · `Customer Service`
+
+
+### **Mathematics and Literacy Tutor**  
+**Self-employed** *(On-site)*  
+*Feb 2022 – Present (2 years, 11 months)*  
+- Customized lesson plans to meet individual learning objectives and diverse learning styles.  
+- Provided consistent support by traveling to students' homes weekly.  
+- Fostered improvements in academic performance and confidence.  
+**Skills:**  
+`Curriculum Development` · `Time Management` · `Communication` · `Subject Mastery` · `Assessment Techniques` · `Critical Thinking` · `Encouragement and Motivation` · `Active Listening`
 
 
 ### 💡 Skills & Interests
